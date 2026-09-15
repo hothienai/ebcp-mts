@@ -186,7 +186,7 @@ Estimated time: 5 hours
 
 ### 🔑 Chapter 7 - Embedded C Review and Applied Practice
 
-Estimated time: 3 hours
+Estimated time: 5 hours
  
 57. `volatile` and hardware registers
 58. Type casting and conversion risks
