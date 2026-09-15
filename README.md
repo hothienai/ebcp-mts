@@ -90,7 +90,7 @@ The schedule below is a guide. The mentorship can move more slowly where student
 
 ### 🔑 Chapter 0 - Development Environment and Workflow
 
-Estimated time: 3 hours
+Estimated time: 2 hours
 
 - Install STM32CubeIDE, ST-LINK support, Git, and Visual Studio Code.
 - Create or configure an STM32 project with STM32CubeMX.
@@ -113,7 +113,7 @@ Estimated time: 3 hours
 
 ### 🔑 Chapter 2 - Types, Operators, and Expressions
 
-Estimated time: 3 hours
+Estimated time: 5 hours
 
 9. Variable names and naming conventions
 10. Data types and sizes
@@ -171,7 +171,7 @@ Estimated time: 3 hours
 
 ### 🔑 Chapter 6 - Structures and Data Representation
 
-Estimated time: 3 hours
+Estimated time: 5 hours
     
 47. Structure fundamentals
 48. Structures and functions
